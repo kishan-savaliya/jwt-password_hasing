@@ -1,0 +1,5 @@
+{
+    "configurations": [
+    {"name":"Python: FastAPI","type":"python","request":"launch","module":"uvicorn","args":["app.app:user"],"jinja":true,"justMyCode":true}
+    ]
+}

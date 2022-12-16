@@ -1,7 +1,7 @@
 """create auth_table table
 
 Revision ID: 7aba655d13ca
-Revises: 
+Revises:
 Create Date: 2022-12-15 12:22:29.704487
 
 """
